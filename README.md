@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Cyber Security and Network System<br>💬 Ask me about Js/Ts, Golang, Java. <br>📫 Reach me at mzalzala45@gmail.com<br>🕒 I lived in UTC+7 region</p>
+<p align="left">📚 I'm currently learning Cyber Security and Network System<br>💬 Ask me about Js/Ts and Golang <br>📫 Reach me at mzalzala45@gmail.com<br>🕒 I lived in UTC+7 region</p>
 
 ###
 
