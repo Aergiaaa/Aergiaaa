@@ -6,11 +6,11 @@
 
 ###
 
-<h4 align="left">My name is Muza and I'm a Passionate Software Developer</h4>
+<h4 align="left">My name is Muza and I'm a Passionate Software Developer that Obsessed with Security</h4>
 
 ###
 
-<p align="left">📚 I'm currently learning Cyber Security and Network System<br>💬 Ask me about Js/Ts and Golang <br>📫 Reach me at mzalzala45@gmail.com<br>🕒 I lived in UTC+7 region</p>
+<p align="left">📚 I'm currently learning Cyber Security and Network System<br>💬 Lets discuss about Golang and Cyber <br>📭 Reach me at mzalzala45@gmail.com<br>🕒 I lived in UTC+7 region</p>
 
 ###
 
