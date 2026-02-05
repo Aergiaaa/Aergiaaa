@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muza</h1>
 <h3 align="center">A Backend Dev that Currently studying CyberSec</h3>
 
+  <img align="right" height="300" src="https://tenor.com/view/kobo-kobo-kanaeru-kobo-jungkat-jungkit-kobo-dolphin-gif-6892519381022503477.gif"  />
+
 - 🔭 I’m currently working on [my interpreter](https://github.com/Aergiaaa/idiotic_interpreter)
 
 - 🌱 I’m currently learning **Cybersec and Low Level**
@@ -13,9 +15,8 @@
 
 - 📄 Know about my experiences [ON_WORKING](ON_WORKING)
 
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/b8/81/73/b88173bc7865f47a2ca8a8f9b7b70429.gif"  />
-</div>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
