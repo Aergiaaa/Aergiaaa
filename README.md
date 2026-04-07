@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Muza</h1>
-<h3 align="center">A Backend Dev that Currently studying CyberSec</h3>
+<h3 align="center">A Backend Dev that Currently studying Low Level and CyberSec</h3>
 
   <img align="right" height="300" src="https://tenor.com/view/kobo-kobo-kanaeru-kobo-jungkat-jungkit-kobo-dolphin-gif-6892519381022503477.gif"  />
 
-- 🔭 I’m currently working on [my interpreter](https://github.com/Aergiaaa/idiotic_interpreter)
+- 🔭 I’m currently working on [my interpreter](https://github.com/Aergiaaa/simplescript)
 
 - 🌱 I’m currently learning **Cybersec and Low Level**
 
 - 👨‍💻 All of my projects are available at [ON_WORKING](ON_WORKING)
 
-- 💬 Ask me about **golang**
+- 💬 Lets talk about **golang** and **C**
 
 - 📫 How to reach me **mzalzala45@gmail.com**
 
