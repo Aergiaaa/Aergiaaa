@@ -4,7 +4,7 @@
 
   <img align="right" height="300" src="https://tenor.com/view/kobo-kobo-kanaeru-kobo-jungkat-jungkit-kobo-dolphin-gif-6892519381022503477.gif"  />
 
-- 🔭 I’m currently working on [my notes app](https://github.com/Aergiaaa/Noted)
+- 🔭 I’m currently working on [my daily note app](https://github.com/Aergiaaa/Noted)
 
 - 🌱 I’m currently learning **Cloud System**
 
