@@ -8,13 +8,11 @@
 
 - 🌱 I’m currently learning **Cloud System**
 
-- 👨‍💻 All of my projects are available at [this](https://mzalzala.me)
+- 👨‍💻 All of my projects and experience are available at [my porto](https://mzalzala.me)
 
 - 💬 Lets talk about **golang** and **C**
 
 - 📫 How to reach me **mzalzala45@gmail.com**
-
-- 📄 Know about my experiences [ON_WORKING](ON_WORKING)
 </div>
 
 
